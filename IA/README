@@ -1,0 +1,3 @@
+En este proyecto utilizamos 3 clases, la clase Nodo que almacena el dato y su nodo izquierda y derecha si es que existe, la clase arbol donde se hace la creacion de 
+los nodos hijo y el constructor que crea el nodo raiz utilizando recursividad y por ultimo la clse main que sirve solo para mandar a llamar los metodos y que datos o
+nodos deseamos agregar al arbol asi como tambien la busqueda de uno existente
