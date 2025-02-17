@@ -1,1 +1,1 @@
-La carpeta llamada IA en realidad es un Arbol Binario que me equivoque al nombrar lol
+Tareas de la clase de Inteligencia Artificial, cuenta con la Carpeta IA (Un arbol binario) y una investigacion de los sistemas de recomendaciones 
